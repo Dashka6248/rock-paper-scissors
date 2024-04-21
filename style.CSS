@@ -1,0 +1,16 @@
+body{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:90vh;
+	background-color:red;
+}
+.Game{
+	background-color:#fff;
+	padding:20px;
+	border-radius:30px;
+}
+.Game img{
+	width:250px;
+	cursor:pointer;
+}
